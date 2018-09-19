@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6ED29AEE-B5BB-4D00-A772-C0C0341CE430}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.GeoLocApp__v2.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeoLocApp_v2/Pages/Login.xaml">
+    <Files>
+      <File FileName="GeoLocApp_v2/Models/UserModel.cs" Line="10" Column="34" />
+      <File FileName="GeoLocApp_v2/Pages/Login.xaml" Line="14" Column="1" />
+      <File FileName="GeoLocApp_v2/Pages/Login.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GeoLocApp_v2" expanded="True">
+            <Node name="GeoLocApp_v2" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Login.xaml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="GeoLocApp_v2.Droid" expanded="True" />
+          </Node>
+          <Node name="MyDiary" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GeoLocApp__v2.UITests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GeoLocApp__v2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.51F6C119-358F-42C2-BC45-EC292CFE65FA" automaticSigning="False" />
+</Properties>

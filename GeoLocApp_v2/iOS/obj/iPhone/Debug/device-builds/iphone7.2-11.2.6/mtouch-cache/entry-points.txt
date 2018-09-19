@@ -1,0 +1,29 @@
+Function=xamarin_timezone_get_data
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/mscorlib.dll
+Function=CreateZStream
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/System.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/begonalozano/Documents/BegoLoz/UQ/MT/xamarin/GeoLocApp_v2/GeoLocApp_v2/iOS/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
