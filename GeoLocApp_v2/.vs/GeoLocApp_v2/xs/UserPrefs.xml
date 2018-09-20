@@ -1,6 +1,6 @@
-﻿<Properties StartupConfiguration="{6ED29AEE-B5BB-4D00-A772-C0C0341CE430}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+﻿<Properties StartupConfiguration="{4A88A8E7-F28B-4840-82B6-24289B556158}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.ItemProperties.GeoLocApp__v2.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GeoLocApp_v2/Pages/Login.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeoLocApp_v2/Models/UserModel.cs">
     <Files>
       <File FileName="GeoLocApp_v2/Models/UserModel.cs" Line="10" Column="34" />
       <File FileName="GeoLocApp_v2/Pages/Login.xaml" Line="14" Column="1" />
@@ -9,16 +9,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="GeoLocApp_v2" expanded="True">
-            <Node name="GeoLocApp_v2" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Login.xaml" expanded="True" selected="True" />
-              </Node>
-            </Node>
-            <Node name="GeoLocApp_v2.Droid" expanded="True" />
-          </Node>
-          <Node name="MyDiary" expanded="True" />
+          <Node name="GeoLocApp_v2" selected="True" />
         </State>
       </Pad>
     </Pads>
